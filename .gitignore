@@ -1,0 +1,4 @@
+node_modules
+.idea
+app/public/components
+app/public/js/bundle
